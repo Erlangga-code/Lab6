@@ -29,7 +29,6 @@ Program ini dirancang untuk mengelola data mahasiswa dalam bentuk sederhana. Pro
 
     Fungsi tampilkan(): 
     Fungsi ini mencetak semua data mahasiswa yang tersimpan dalam format yang mudah dibaca. 
-    
     Jika list mahasiswa kosong, maka akan ditampilkan pesan bahwa data masih kosong.
 
     Fungsi hapus(nama): 
@@ -57,5 +56,10 @@ Program ini dirancang untuk mengelola data mahasiswa dalam bentuk sederhana. Pro
 
 
 
+
+
 **Hasil Program**
-![Hasil Lab 6](https://github.com/user-attachments/assets/3bea321e-207b-4db9-a65d-2b7788b34a9a)
+
+
+![Hasil Lab 6](https://github.com/user-attachments/assets/711ae126-3cd8-4269-94d3-9b434e9fe30c)
+
