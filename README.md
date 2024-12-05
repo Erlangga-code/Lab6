@@ -51,8 +51,8 @@ Program ini dirancang untuk mengelola data mahasiswa dalam bentuk sederhana. Pro
 
 
 **Kode Program**
-![koding lab6](https://github.com/user-attachments/assets/deac408d-ff9c-4dc0-a6bf-239b655657ac)
-![koding lab6 2](https://github.com/user-attachments/assets/609f20d9-6da6-497b-a4c5-ed7bfa825cc1)
+![File 1](https://github.com/user-attachments/assets/c9b2bb7d-cf40-42d1-bb05-ae5b77ff4fbf)
+![File 2](https://github.com/user-attachments/assets/e4629d76-e327-4848-929d-712bc542d2ee)
 
 
 
