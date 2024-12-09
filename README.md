@@ -61,5 +61,6 @@ Program ini dirancang untuk mengelola data mahasiswa dalam bentuk sederhana. Pro
 **Hasil Program**
 
 
-![Hasil Lab 6](https://github.com/user-attachments/assets/711ae126-3cd8-4269-94d3-9b434e9fe30c)
+![Hasil Lab 6](https://github.com/user-attachments/assets/2bd5f4a1-cabf-4193-aae5-888d1c1c89bb)
+
 
